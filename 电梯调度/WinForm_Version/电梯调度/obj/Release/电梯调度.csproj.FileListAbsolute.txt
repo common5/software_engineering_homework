@@ -1,0 +1,10 @@
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\bin\Release\电梯调度.exe.config
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\bin\Release\电梯调度.exe
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\bin\Release\电梯调度.pdb
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.csproj.AssemblyReference.cache
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.csproj.SuggestedBindingRedirects.cache
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.csproj.CoreCompileInputs.cache
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.exe
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.pdb
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.Form1.resources
+E:\学习\作业\操作系统\电梯调度\WinForm_Version\电梯调度\obj\Release\电梯调度.csproj.GenerateResource.cache

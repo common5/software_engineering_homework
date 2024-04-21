@@ -1,0 +1,14 @@
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\bin\Release\文件管理.exe.config
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\bin\Release\文件管理.exe
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\bin\Release\文件管理.pdb
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.csproj.AssemblyReference.cache
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.csproj.SuggestedBindingRedirects.cache
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.AttributesPage.resources
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.FileManager.resources
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.FormofBuildFile.resources
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.Properties.Resources.resources
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.TextEditor.resources
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.csproj.GenerateResource.cache
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.csproj.CoreCompileInputs.cache
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.exe
+E:\学习\作业\操作系统\文件管理\文件管理\文件管理\obj\Release\文件管理.pdb

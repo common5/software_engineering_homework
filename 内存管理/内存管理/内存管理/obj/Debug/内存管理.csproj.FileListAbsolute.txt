@@ -1,0 +1,11 @@
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\bin\Debug\内存管理.exe.config
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\bin\Debug\内存管理.exe
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\bin\Debug\内存管理.pdb
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.csproj.AssemblyReference.cache
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.csproj.SuggestedBindingRedirects.cache
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.Form1.resources
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.Properties.Resources.resources
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.csproj.GenerateResource.cache
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.csproj.CoreCompileInputs.cache
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.exe
+E:\学习\作业\操作系统\内存管理\内存管理\内存管理\obj\Debug\内存管理.pdb

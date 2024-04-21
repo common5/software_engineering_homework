@@ -1,0 +1,8 @@
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\bin\Release\TestConsole1.exe.config
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\bin\Release\TestConsole1.exe
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\bin\Release\TestConsole1.pdb
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\obj\Release\TestConsole1.csproj.AssemblyReference.cache
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\obj\Release\TestConsole1.csproj.SuggestedBindingRedirects.cache
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\obj\Release\TestConsole1.csproj.CoreCompileInputs.cache
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\obj\Release\TestConsole1.exe
+E:\学习\作业\操作系统\电梯调度\TestConsole1\TestConsole1\obj\Release\TestConsole1.pdb
